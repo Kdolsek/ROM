@@ -1,5 +1,2 @@
 # ROM
-Vaje pri predmetu Računalniška orodja v matematiki 2019 / 2020
-nekaj sem spremenila
-en vporeden popravek
-popravek
+Za seminarsko nalogo sem si izbrala odvod funkcije. V programu bom predstavila nekaj nalog in osnovne definicije.
